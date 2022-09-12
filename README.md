@@ -1,2 +1,2 @@
 # Projects
-This Github repository contains some of my dta science, computer vision projects
+This Github repository contains some of my data science and computer vision projects
